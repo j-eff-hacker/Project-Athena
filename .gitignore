@@ -1,0 +1,22 @@
+# Python environment and packages
+venv/
+.venv/
+env/
+ENV/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.coverage
+
+# VS Code environment settings
+.vscode/
+
+# Local environment variables / Secrets
+.env
+.env.local
+
+# Operating system files
+.DS_Store
+Thumbs.db
